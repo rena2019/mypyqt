@@ -1,5 +1,7 @@
 # install packages
-# python3 --m pip install pysimplegui
+#   python3 --m pip install pysimplegui
+# create exe
+#   pyinstaller --noconsole --windowed --noconfirm --onefile D:\_projects\_my\mycrypto.py
 
 # crypto stuff taken from https://stackoverflow.com/questions/2490334/simple-way-to-encode-a-string-according-to-a-password
 import secrets
